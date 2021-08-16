@@ -1,1 +1,1 @@
-# Digital-Assets-Analytics
+# Bitcoin Log Regression Rainbow
