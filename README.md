@@ -1,11 +1,13 @@
 # Bitcoin Log Regression Rainbow
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
-</foreignObject>
-</svg>
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+    <h1>Django Site</h1>
+    <hr />
+    <p>Thanks for visiting.</p>
+</body>
+</html>
